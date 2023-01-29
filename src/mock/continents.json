@@ -1,0 +1,152 @@
+[
+	{
+		"id": 1,
+		"title": "North America",
+		"summary": "North America, the third-largest continent, extends from the tiny Aleutian Islands in the northwest to the Isthmus of Panama in the south.",
+		"about_description": "Laborum ullamco pariatur deserunt excepteur consectetur aliqua aute minim exercitation. Deserunt cupidatat Lorem quis esse proident Lorem Lorem quis nisi reprehenderit fugiat laborum id sit. Laboris ex exercitation proident proident Lorem consectetur culpa exercitation.",
+		"image_url": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+		"countries_count": 5,
+		"languages_count": 9,
+		"cities_count": 4,
+		"cities": [
+			{
+				"name": "New York",
+				"country_name": "United States",
+				"image_url": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+				"flag": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"title": "South America",
+		"summary": "South America is the fourth-largest continent and extends from the sunny beaches of the Caribbean Sea to the frigid waters near the Antarctic Circle.",
+		"about_description": "Laborum ullamco pariatur deserunt excepteur consectetur aliqua aute minim exercitation. Deserunt cupidatat Lorem quis esse proident Lorem Lorem quis nisi reprehenderit fugiat laborum id sit. Laboris ex exercitation proident proident Lorem consectetur culpa exercitation.",
+		"image_url": "https://images.unsplash.com/photo-1619546952812-520e98064a52?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+		"countries_count": 5,
+		"languages_count": 9,
+		"cities_count": 4,
+		"cities": [
+			{
+				"name": "New York",
+				"country_name": "United States",
+				"image_url": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+				"flag": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"title": "Europe",
+		"summary": "Europe has more than 40 countries and many of the world’s major cities, including London, the United Kingdom; Paris, France; Berlin, Germany; Rome, Italy; Madrid, Spain; and Moscow, Russia.",
+		"about_description": "Laborum ullamco pariatur deserunt excepteur consectetur aliqua aute minim exercitation. Deserunt cupidatat Lorem quis esse proident Lorem Lorem quis nisi reprehenderit fugiat laborum id sit. Laboris ex exercitation proident proident Lorem consectetur culpa exercitation.",
+		"image_url": "https://images.unsplash.com/photo-1485081669829-bacb8c7bb1f3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+		"countries_count": 5,
+		"languages_count": 9,
+		"cities_count": 4,
+		"cities": [
+			{
+				"name": "New York",
+				"country_name": "United States",
+				"image_url": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+				"flag": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"title": "Africa",
+		"summary": "Africa, the second-largest continent, covers an area more than three times that of the United State.",
+		"about_description": "Laborum ullamco pariatur deserunt excepteur consectetur aliqua aute minim exercitation. Deserunt cupidatat Lorem quis esse proident Lorem Lorem quis nisi reprehenderit fugiat laborum id sit. Laboris ex exercitation proident proident Lorem consectetur culpa exercitation.",
+		"image_url": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+		"countries_count": 5,
+		"languages_count": 9,
+		"cities_count": 4,
+		"cities": [
+			{
+				"name": "New York",
+				"country_name": "United States",
+				"image_url": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+				"flag": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"title": "Asia",
+		"summary": "Asia, the largest continent, stretches from the eastern Mediterranean Sea to the western Pacific Ocean. There are more than 40 countries in Asia. ",
+		"about_description": "Laborum ullamco pariatur deserunt excepteur consectetur aliqua aute minim exercitation. Deserunt cupidatat Lorem quis esse proident Lorem Lorem quis nisi reprehenderit fugiat laborum id sit. Laboris ex exercitation proident proident Lorem consectetur culpa exercitation.",
+		"image_url": "https://images.unsplash.com/photo-1513415564515-763d91423bdd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+		"countries_count": 5,
+		"languages_count": 9,
+		"cities_count": 4,
+		"cities": [
+			{
+				"name": "New York",
+				"country_name": "United States",
+				"image_url": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+				"flag": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"title": "Australia",
+		"summary": "The continent is sometimes called Oceania, to include the thousands of tiny islands of the Central Pacific and South Pacific, most notably Melanesia, Micronesia, and Polynesia (including the U.S. state of Hawai'i).",
+		"about_description": "Laborum ullamco pariatur deserunt excepteur consectetur aliqua aute minim exercitation. Deserunt cupidatat Lorem quis esse proident Lorem Lorem quis nisi reprehenderit fugiat laborum id sit. Laboris ex exercitation proident proident Lorem consectetur culpa exercitation.",
+		"image_url": "https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1230&q=80",
+		"countries_count": 5,
+		"languages_count": 9,
+		"cities_count": 4,
+		"cities": [
+			{
+				"name": "New York",
+				"country_name": "United States",
+				"image_url": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+				"flag": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"title": "Antarctica",
+		"summary": "Antarctica is the windiest, driest, and iciest place on Earth.",
+		"about_description": "Laborum ullamco pariatur deserunt excepteur consectetur aliqua aute minim exercitation. Deserunt cupidatat Lorem quis esse proident Lorem Lorem quis nisi reprehenderit fugiat laborum id sit. Laboris ex exercitation proident proident Lorem consectetur culpa exercitation.",
+		"image_url": "https://images.unsplash.com/photo-1606592641984-c9a1506d0705?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+		"countries_count": 5,
+		"languages_count": 9,
+		"cities_count": 4,
+		"cities": [
+			{
+				"name": "New York",
+				"country_name": "United States",
+				"image_url": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+				"flag": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+			},
+			{
+				"name": "Atlanta",
+				"country_name": "United States",
+				"image_url": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+				"flag": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+			},
+			{
+				"name": "Ohio",
+				"country_name": "United States",
+				"image_url": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+				"flag": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+			},
+			{
+				"name": "Los Angeles",
+				"country_name": "United States",
+				"image_url": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+				"flag": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+			},
+			{
+				"name": "New York",
+				"country_name": "United States",
+				"image_url": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+				"flag": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+			}
+		]
+	}
+]
